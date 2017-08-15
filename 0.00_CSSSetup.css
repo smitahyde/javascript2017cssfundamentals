@@ -1,0 +1,13 @@
+body {
+	//This is a line comment
+	/* This is a block comment*/
+	background-color: #e5e5e5;//if all the numbers or letters are the same you can shorter
+}
+
+div {
+	margin:20px;
+}
+
+span {
+	font-weight: bold;
+}
